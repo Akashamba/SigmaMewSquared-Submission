@@ -1,0 +1,6 @@
+[submodule "frontend-app"]
+	path = frontend-app
+	url = https://github.com/Akashamba/aadhaar-frontend
+[submodule "backend-app"]
+	path = backend-app
+	url = https://github.com/iamunr4v31/Aadhaar-Hackathon
